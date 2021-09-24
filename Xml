@@ -1,0 +1,31 @@
+   //For Slidder
+   
+   <DatePicker
+        android:id="@+id/datePicker1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:datePickerMode="spinner"
+        android:calendarViewShown="false"/>
+        
+        
+        
+        //For Calender
+          <DatePicker
+        android:id="@+id/datePicker1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:datePickerMode="calender"/>
+        
+        
+        //For Both Calender And Slidder
+          <DatePicker
+        android:id="@+id/datePicker1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:datePickerMode="spinner"
+   />
+        
+        
